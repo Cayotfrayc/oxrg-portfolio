@@ -1442,8 +1442,8 @@ footer div {
   z-index: 999999999;
 
   }
- input { 
-        height: 150px !important;
+ .input input{ 
+        height: 25px !important;
         {
 
 }
