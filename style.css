@@ -1437,11 +1437,14 @@ footer div {
     text-align: center;
   }
   .input input.active {
-  transform: translateY(-140px) translateZ(999px);
+  transform: translateY(-140px) translateZ(999px) ;
   background-color: #3a3a3a;
   z-index: 999999999;
 
   }
+ input { 
+        height: 30px;
+        {
 
 }
 
